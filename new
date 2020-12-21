@@ -1,0 +1,262 @@
+{
+100: {
+	'icon': {
+		'png': 'icon.png',
+		'md5': 'a333e9ff1e4a7b269c39186c9b43387d'
+	},
+	'name': 'Password Manager',
+	'version': '1.2021.02',
+	'download': {
+		'windows': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		},
+		'linux': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		}
+	},
+	'language': {
+		'en': {
+			'title': "Password Manager",
+			'des': "Protect all your accounts in one place and one password, No need to remember passwords anymore.",
+		},
+		'ar': {
+			'title': "مدير كلمات السر",
+			'des': "احمي جميع حساباتك فى مكان واحد وبكلمة مرور واحدة, لست بحاجة لتذكر كلمات السر بعد الان.",
+		}
+	},
+	'update': {
+		'rm_src': True,
+		'rm_data': False,
+		'message': {
+			'text': None,
+			'warning': False
+		}
+	}
+},
+102: {
+	'icon': {
+		'png': 'icon.png',
+		'md5': 'a333e9ff1e4a7b269c39186c9b43387d'
+	},
+	'name': 'Download Manager',
+	'version': '1.2021.02',
+	'download': {
+		'windows': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		},
+		'linux': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		}
+	},
+	'language': {
+		'en': {
+			'title': "Download Manager",
+			'des': "Download all files at high speed and make virus scan before downloading them to your computer.",
+		},
+		'ar': {
+			'title': "مدير التحميل",
+			'des': "قم بتنزيل جميع الملفات بسرعة عالية وقم بإجراء فحص للفيروسات قبل تنزيلها على جهاز الكمبيوتر الخاص بك.",
+		}
+	},
+	'update': {
+		'rm_src': True,
+		'rm_data': False,
+		'message': {
+			'text': None,
+			'warning': False
+		}
+	}
+},
+103: {
+	'icon': {
+		'png': 'icon.png',
+		'md5': 'a333e9ff1e4a7b269c39186c9b43387d'
+	},
+	'name': 'Antivirus',
+	'version': '1.2021.02',
+	'download': {
+		'windows': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		},
+		'linux': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		}
+	},
+	'language': {
+		'en': {
+			'title': "Antivirus Free",
+			'des': "Get protection against viruses, malware and spyware. Easy-to-use virus scanner.",
+		},
+		'ar': {
+			'title': "مضاد الفيروسات المجاني",
+			'des': "احصل على الحماية من الفيروسات والبرامج الضارة وبرامج التجسس. افحص الفيروسات بسهولة.",
+		}
+	},
+	'update': {
+		'rm_src': True,
+		'rm_data': False,
+		'message': {
+			'text': None,
+			'warning': False
+		}
+	}
+},
+104: {
+	'icon': {
+		'png': 'icon.png',
+		'md5': 'a333e9ff1e4a7b269c39186c9b43387d'
+	},
+	'name': 'Crypto Manager',
+	'version': '1.2021.02',
+	'download': {
+		'windows': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		},
+		'linux': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		}
+	},
+	'language': {
+		'en': {
+			'title': "Crypto Manager",
+			'des': "Protect your sensitive data with the strongest encryption algorithms around the world.",
+		},
+		'ar': {
+			'title': "مدير التشفير",
+			'des': "قم بحماية بياناتك الحساسة بأقوى خوارزميات التشفير حول العالم.",
+		}
+	},
+	'update': {
+		'rm_src': True,
+		'rm_data': False,
+		'message': {
+			'text': None,
+			'warning': False
+		}
+	}
+},
+105: {
+	'icon': {
+		'png': 'icon.png',
+		'md5': 'a333e9ff1e4a7b269c39186c9b43387d'
+	},
+	'name': 'Screen Lock',
+	'version': '1.2021.02',
+	'download': {
+		'windows': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		},
+		'linux': {
+			'a32': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			},
+			'a64': {
+				'link': 'https://raw.githubusercontent.com/secpure/Products/main/icon.png.exe',
+				'size': '999 MB',
+				'md5': '9dd4e461268c8034f5c8564e155c67a6',
+			}
+		}
+	},
+	'language': {
+		'en': {
+			'title': "Screen's Lock",
+			'des': "No one can use your desktop while you are away anymore.",
+		},
+		'ar': {
+			'title': "قفل الشاشة",
+			'des': "لا يمكن لأي شخص استخدام سطح المكتب الخاص بك أثناء غيابك بعد الآن.",
+		}
+	},
+	'update': {
+		'rm_src': True,
+		'rm_data': False,
+		'message': {
+			'text': None,
+			'warning': False
+		}
+	}
+}
+}
